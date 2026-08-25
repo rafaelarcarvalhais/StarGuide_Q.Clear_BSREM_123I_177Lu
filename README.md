@@ -1,6 +1,6 @@
 # StarGuide_Q.Clear_BSREM_123I_177Lu
 
-This repository contains the quantitative data and analysis scripts supporting the study presented in the manuscript entitled *“Optimisation of Q.Clear (BSREM) Reconstruction Parameters for ¹²³I and ¹⁷⁷Lu Imaging with a 360° CZT Detector.”* The data are organised by radionuclide.
+This repository contains the quantitative data and analysis scripts supporting the study presented in the manuscript entitled *“Optimisation of Q.Clear (BSREM) Reconstruction Parameters for ¹²³I and ¹⁷⁷Lu Imaging with a 360° CZT Detector.”* 
 
 ## Contents
 
