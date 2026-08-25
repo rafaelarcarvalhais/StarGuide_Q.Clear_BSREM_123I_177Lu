@@ -11,7 +11,7 @@ This repository contains the quantitative data and analysis scripts supporting t
 
 ## Raw CT and SPECT Data
 
-Raw CT and SPECT data are not publicly available in this repository. They are available from the corresponding authors upon reasonable request.
+Raw CT and SPECT data are not publicly available in this repository. They are available from the corresponding author upon reasonable request.
 
 ## Software
 
