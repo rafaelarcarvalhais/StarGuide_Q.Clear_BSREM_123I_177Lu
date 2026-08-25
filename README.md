@@ -7,7 +7,7 @@ This repository contains the quantitative data and analysis scripts supporting t
 - **VOI statistics:** VOI statistics obtained from the quantitative analysis workflow developed in MIM Software within the context of this study. A detailed description of the workflow is provided in Section S1 of the Supplementary Material.
 - **Quantitative metrics:** Recovery Coefficients (RC), Background Variability (BV), Signal-to-Noise Ratio (SNR), and Contrast Recovery Coefficients (CRC) for all reconstruction protocols presented in the manuscript.
 - **Calibration Factors:** Calibration Factors (CF) for all reconstruction protocols presented in the manuscript. The calibration strategy is described in Section S1 of the Supplementary Material.
-- **Python scripts:** Scripts for RC, BV, SNR, and CRC calculation, EANM fitting, and figure generation.
+- **Python scripts:** Scripts for RC, BV, SNR, and CRC calculation and EANM fitting.
 
 ## Raw CT and SPECT Data
 
