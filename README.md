@@ -17,4 +17,4 @@ Raw CT and SPECT data are not publicly available in this repository. They are av
 
 - Python (version 3.14)
 - MIM Software (version 7.3.4)
-- SmartConsole (version X)
+- SmartConsole (version 1.1)
