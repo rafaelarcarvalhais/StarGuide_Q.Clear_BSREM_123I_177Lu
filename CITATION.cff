@@ -1,0 +1,42 @@
+title: 'StarGuide_Q.Clear_BSREM_123I_177Lu '
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Rafaela
+    family-names: Carvalhais
+    email: up202105270@up.pt
+    affiliation: >-
+      Faculty of Sciences of University of Porto, Porto,
+      Portugal; Medical Physics, Radiobiology and Radiation
+      Protection Group, IPO Porto Research Center (CI-IPOP),
+      Portuguese Institute of Oncology of Porto (IPO Porto),
+      Porto, Portugal
+    orcid: 'https://orcid.org/0009-0006-0157-0808'
+  - given-names: 'Joana '
+    family-names: Teixeira
+    affiliation: >-
+      Medical Physics, Radiobiology and Radiation Protection
+      Group, IPO Porto Research Center (CI-IPOP), Portuguese
+      Institute of Oncology of Porto (IPO Porto), Porto,
+      Portugal
+    orcid: 'https://orcid.org/0000-0003-3579-5715'
+  - given-names: Vera
+    family-names: Antunes
+    affiliation: >-
+      Medical Physics, Radiobiology and Radiation Protection
+      Group, IPO Porto Research Center (CI-IPOP), Portuguese
+      Institute of Oncology of Porto (IPO Porto), Porto,
+      Portugal
+    orcid: 'https://orcid.org/0000-0001-7195-8791'
+  - given-names: João
+    family-names: Santos
+    orcid: 'https://orcid.org/0000-0003-2465-5143'
+    affiliation: >-
+      Medical Physics, Radiobiology and Radiation Protection
+      Group, IPO Porto Research Center (CI-IPOP), Portuguese
+      Institute of Oncology of Porto (IPO Porto), Porto,
+      Portugal; School of Medicine and Biomedical Sciences
+      (ICBAS), University of Porto, Porto, Portugal
+license: MIT
